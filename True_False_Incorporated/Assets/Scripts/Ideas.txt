@@ -1,0 +1,19 @@
+Theme: Trust No One
+
+Ideas:
+3D Game
+FPS/Navigational Maze
+Portal test chamber Vibes with seemingly trustworthy instructor that turns rogue? 
+Player turns rogue?
+Instructor voice should be the british GPS voice (Can use Narakeet, Daisy for text to speech)
+
+
+Final Idea: The player spawns in a sterile room with a bed and a toilet, everything is white, a voice on the intercom introduces themselves
+as the instructor who will be informing the player on where they are, why they are here, and what they need to do to return back to normal life.
+The player is tasked with navigating through a series of levels (some parkour and some with enemies they can kill with a gun, and some with both
+[wall riding could be cool if scope allows]). After the player completes the final level, the instructor informs them that the circumstances have
+changed and that the player will not be leaving the facility today.
+
+Scope Creep Changes:
+The player navigates a complex labrynth/maze where they encounter static NPCs which give them a true directions 50% of the time and false directions
+the other 50% of the time. No combat mechanics needed, movement tech preserved. (wall riding is rad).
